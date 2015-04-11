@@ -1,0 +1,23 @@
+{% extends 'base.html' %}
+{% block title %}{{ config.title }} - {{ lang('tags') }}{% endblock %}
+
+{% block content %}
+{%if  all_tags %}
+<div class="mid-col">
+    <div class="mid-col-container">
+        <h2 class="title">{{ lang('tags') }}：</h2>
+        <br>
+      {% for tag,weight in all_tags %}       
+        <div class="tag">
+    		<a href="/tags/{{ tag }}">{{ tag }}</a>
+        </div>
+        {% endfor %}
+    </div>
+    {% include 'include/footer.html' %}
+</div>
+{% else %}
+    {% include 'include/posts_list.html' %}
+{% endif %}
+{% endblock %}
+
+

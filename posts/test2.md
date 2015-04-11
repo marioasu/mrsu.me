@@ -2,7 +2,7 @@ Date: 2014-08-11
 Title: 测试代码高亮的数学公式
 intro:用于测试
 Tags: 测试 test
-Status: public
+Status: draft
 
 
 

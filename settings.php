@@ -16,7 +16,7 @@ $blog_config['aboutme']='兰生于幽谷，不以无人而不芳';
 $blog_config['avatar']= 'http://mrsu-me.oss-cn-beijing.aliyuncs.com/op_brothers.jpg';
 
 //blog template name.The template root path is /templates.You can set rock or deepure. 
-$blog_config['template'] = 'rock';
+$blog_config['template'] = 'deepure';
 
 //If you would like that everyone comment your post,you must set this variable to True.
 $blog_config['comment'] = True;
@@ -29,7 +29,7 @@ $blog_config['disqus_short_name'] = '';
 $blog_config['base_url'] = '';
 
 //your github url
-$blog_config['github'] = 'https://github.com/hjue/JustWriting';
+$blog_config['github'] = 'https://github.com/marioasu/mrsu.me';
 
 //other social network : twitter, facebook, rss and email. For example :
 $blog_config['twitter'] = '';

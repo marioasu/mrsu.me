@@ -12,7 +12,8 @@ $blog_config['author']='Mr.su';
 //"About Me" box
 $blog_config['aboutme']='兰生于幽谷，不以无人而不芳';
 //blog avatar
-$blog_config['avatar']= 'https://raw.githubusercontent.com/hjue/JustWriting/develop/docs/logo.png';
+// $blog_config['avatar']= 'https://raw.githubusercontent.com/hjue/JustWriting/develop/docs/logo.png';
+$blog_config['avatar']= 'http://mrsu-me.oss-cn-beijing.aliyuncs.com/op_brothers.jpg';
 
 //blog template name.The template root path is /templates.You can set rock or deepure. 
 $blog_config['template'] = 'rock';

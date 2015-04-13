@@ -8,7 +8,7 @@ Position: 1000
 
 ### 看看安装部署过程中踩到的坑
 
-- [Justwriting](https://github.com/hjue/JustWriting)是开源的,用[Markdown](http://wowubuntu.com/markdown/)就能书写
+- [JustWriting](https://github.com/hjue/JustWriting)是开源的,用[Markdown](http://wowubuntu.com/markdown/)就能书写
 - 建议配置虚拟主机，而不是放入localhost根目录直接访问(框架路径规则貌似没完善到这一步)
 - 像部署普通网站应用一样部署，开发时用的Mac上自带的环境(Apache/2.4.9 (Unix) + PHP 5.5.14)
 - 如果遇到首页简介显示没问题，但是具体博文点进去显示Not Found或者Forbidden(404)多半是URL重写配置的问题(我就遇到了这个问题- -
@@ -16,6 +16,42 @@ Position: 1000
 		LoadModule rewrite_module lib/httpd/modules/mod_rewrite.so 
 	2. 配置虚拟主机的Directory
 		AllowOverride All
+- 如果用git控制版本,注意修改.gitignore中的内容(默认/posts中新建的文件不会被提交)
+- JustWriting的nginx配置(官方demo，考虑到不是每个人都跨越了GFW，特意贴在下面)
+-
+	```
+	server {
+			listen       80;
+			server_name www.justwriting.com;
+
+			root /data/web/www.justwriting.com;
+			index index.html index.php;
+
+			# set expiration of assets to MAX for caching
+			location ~* \.(ico|css|js|gif|jpe?g|png)(\?[0-9]+)?$ {
+				expires max;
+				log_not_found off;
+			}
+
+			location ~* \.(md)$  { 
+			  deny all; 
+			}
+
+			location / {
+				# Check if a file exists, or route it to index.php.
+				try_files $uri $uri/ /index.php$uri?$args;
+			}
+
+			location ~* \.php {
+				fastcgi_pass 127.0.0.1:9000;
+				fastcgi_index index.php;
+				fastcgi_split_path_info ^(.+\.php)(/?.*)$;
+				fastcgi_param PATH_INFO $fastcgi_path_info;
+				include fastcgi_params;
+				fastcgi_param SCRIPT_FILENAME $document_root$fastcgi_script_name;
+			}
+	}
+	```
 
 ### 个性化配置
 

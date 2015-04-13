@@ -8,3 +8,4 @@ cache/*
 !cache/index.html
 
 application/cache
+*.bak

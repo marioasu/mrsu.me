@@ -33,3 +33,10 @@ Position: 999
 
 ## 2015-04-14
 - recommend - 推荐
+- directive - 指令
+- consult - 咨询
+- explicit - 明确的
+- omit - 省略
+- glomming - 扫描
+- asterisk - 星号
+- dummy - 虚拟的

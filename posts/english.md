@@ -40,3 +40,7 @@ Position: 999
 - glomming - 扫描
 - asterisk - 星号
 - dummy - 虚拟的
+
+## 2015-04-15
+- permanently - 永久地
+

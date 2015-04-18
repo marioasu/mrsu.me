@@ -1,7 +1,7 @@
 Date: 2015-04-11
 Title: 英文单词
 intro: 看到不会的英文单词什么的就顺手记下来咯
-Tags: 英文 单词
+Tags: 外语 英语 单词
 Status: public
 Toc: yes
 Position: 999
@@ -43,4 +43,12 @@ Position: 999
 
 ## 2015-04-15
 - permanently - 永久地
+- illustrate - 说明
+- routine - 常规的
+- substantial - 实质性的
+
+
+
+
+
 

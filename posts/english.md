@@ -51,6 +51,8 @@ Position: 999
 - portrait - 肖像
 - compact - 紧凑，简洁
 - melbourne - 墨尔本
+- eternal - 永恒的
 
-
+## 2015-04-22
+- declaration - 声明
 

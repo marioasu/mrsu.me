@@ -56,3 +56,16 @@ Position: 999
 ## 2015-04-22
 - declaration - 声明
 
+## 2015-04-23
+- paralyzed - 瘫痪/麻痹
+- fairytale - 童话
+- swish - 时髦的
+- sly - 狡猾的
+- tedious - 单调乏味的
+- mechanical - 机械的
+- exponentially - 指数式
+- earbud - 耳塞
+- intentionally - 有意的
+- redundancy - 冗余
+- peek - 偷看
+- comic - 漫画

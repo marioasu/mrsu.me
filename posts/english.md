@@ -69,3 +69,6 @@ Position: 999
 - redundancy - 冗余
 - peek - 偷看
 - comic - 漫画
+
+## 2015-04-24
+- certain - 某些

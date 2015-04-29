@@ -72,7 +72,3 @@ Position: 999
 
 ## 2015-04-24
 - certain - 某些
-
-## 2015-04-29
-- crawler - 爬行器
-- encyclopedia - 百科全书

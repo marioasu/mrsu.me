@@ -76,3 +76,17 @@ Position: 999
 ## 2015-04-29
 - crawler - 爬行器
 - encyclopedia - 百科全书
+
+## 2015-05-06
+- transient - 短暂的
+- invoice - 发票
+- holy grail - 圣杯
+- economist - 经济学人
+- overstate - 夸大
+- trivialize - 使平凡
+
+## 2015-05-07
+- celebrity - 名人
+- trample - 践踏
+- liberty - 自由
+- ellipsis - 省略

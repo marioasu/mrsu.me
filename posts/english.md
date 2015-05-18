@@ -90,3 +90,9 @@ Position: 999
 - trample - 践踏
 - liberty - 自由
 - ellipsis - 省略
+
+## 2015-05-14
+- artificial intelligence 人工智能
+
+## 2015-05-18
+- mystical - 神秘的

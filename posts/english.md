@@ -96,3 +96,8 @@ Position: 999
 
 ## 2015-05-18
 - mystical - 神秘的
+
+## 2015-05-19
+- eventuality - 可能性
+- registry - 注册
+

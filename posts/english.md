@@ -101,3 +101,18 @@ Position: 999
 - eventuality - 可能性
 - registry - 注册
 
+## 2015-05-20
+- symbolic - 符号的
+
+## 2015-05-21
+- consciousness - 意识,觉悟
+- extenal - 外界
+- gobble up - 狼吞虎咽
+- utility - 通用的
+- subscribing - 预定
+
+## 2015-05-29
+- overwhelming - 压倒性的
+- extremely - 非常
+- boils down to - 归结为
+- restrict - 约束

@@ -116,3 +116,10 @@ Position: 999
 - extremely - 非常
 - boils down to - 归结为
 - restrict - 约束
+
+## 2015-07-08
+- innovative - 革新的
+- side by side - 并肩
+- prerequisite - 先决条件
+- formula - 公式
+- penalty - 处罚

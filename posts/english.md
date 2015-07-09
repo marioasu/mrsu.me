@@ -123,3 +123,7 @@ Position: 999
 - prerequisite - 先决条件
 - formula - 公式
 - penalty - 处罚
+
+## 2015-07-09
+- tawny - 黄褐色
+- tympathy - 同情

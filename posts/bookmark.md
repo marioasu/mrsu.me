@@ -8,9 +8,12 @@ Position: 997
 
 ### 博客
 - [阮一峰（阮一峰的个人网站）](http://www.ruanyifeng.com/)
-- [陈皓（酷壳-coolshell.cn）](http://coolshell.cn/)
+- [陈皓（酷壳-coolshell.cn 享受编程和技术所带来的快乐）](http://coolshell.cn/)
 - [王垠（当然我在扯淡）](http://www.yinwang.org/)
+- [刘未鹏 | MIND HACKS 思维改变生活](http://mindhacks.cn/)
+- [池建强 MacTalk-池建强的随想录 关注技术和人文](http://macshuo.com/)
 - [余弦（以黑客那种邪气看待世界）](http://evilcos.me/)
+- [鳥哥的 Linux 私房菜](http://linux.vbird.org/)
 
 ### 手册
 - [php](http://php.net/)

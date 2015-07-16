@@ -1,7 +1,7 @@
 Date: 2015-04-11
 Title: JustWriting 使用心得
 intro: 项目前期最忙的一段时间接近尾声，终于有时间来捣鼓一个自己的博客，主要目的是记记笔记码码字儿。经木木同学推荐，幸运的在github上找到了JustWriting,一个极简开源博客系统，用Markdown就能书写，正和我意。
-Tags: JustWriting 博客 使用
+Tags: JustWriting 博客
 Status: public
 Toc: yes
 Position: 1000

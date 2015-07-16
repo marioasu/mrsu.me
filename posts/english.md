@@ -127,3 +127,18 @@ Position: 999
 ## 2015-07-09
 - tawny - 黄褐色
 - tympathy - 同情
+
+## 2015-07-13
+- cryptography - 密码学
+
+## 2015-07-14
+- i just wanna live while im alive
+- incompatible - 矛盾的
+- infinity - 无穷大
+- rationale - 基本原理
+
+## 2015-07-15
+- interpolation - 插值法
+- mainframe - 主机
+- assertion - 断言
+- short-circuit evaluation - 短路计算

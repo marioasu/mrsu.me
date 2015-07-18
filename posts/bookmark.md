@@ -14,7 +14,7 @@ Position: 997
 - [池建强 MacTalk-池建强的随想录 关注技术和人文](http://macshuo.com/)
 - [余弦（以黑客那种邪气看待世界）](http://evilcos.me/)
 - [鳥哥的 Linux 私房菜](http://linux.vbird.org/)
-- [江南白衣 春天的旁边](http://calvin1978.blogcn.com/)
+- [江南白衣（春天的旁边）](http://calvin1978.blogcn.com/)
 
 ### 手册
 - [php](http://php.net/)
@@ -22,3 +22,7 @@ Position: 997
 
 ### 工具
 - [swift在线编译器](http://swiftstub.com/)
+
+### IT
+- [图灵社区 - 技术改变世界 阅读塑造人生](http://www.ituring.com.cn/)
+- [前端网 - 前端开发工程师互动平台](http://www.w3cfuns.com/)

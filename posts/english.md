@@ -142,3 +142,10 @@ Position: 999
 - mainframe - 主机
 - assertion - 断言
 - short-circuit evaluation - 短路计算
+
+## 2015-07-18
+- lexical - 词汇的 文法
+
+## 2015-07-20
+- demension - 尺寸 维度
+- valotile - 挥发性的 易失的

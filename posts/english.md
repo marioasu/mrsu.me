@@ -149,3 +149,6 @@ Position: 999
 ## 2015-07-20
 - demension - 尺寸 维度
 - valotile - 挥发性的 易失的
+- zebra crossing - 斑马线
+
+## 2015-07-23

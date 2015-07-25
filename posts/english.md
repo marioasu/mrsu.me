@@ -152,3 +152,4 @@ Position: 999
 - zebra crossing - 斑马线
 
 ## 2015-07-23
+- companion - 手册

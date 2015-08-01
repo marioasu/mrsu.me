@@ -153,3 +153,11 @@ Position: 999
 
 ## 2015-07-23
 - companion - 手册
+
+## 2015-07-30
+- progress - 进步
+- conservation - 保护
+- outset - 开端
+
+## 2015-08-01
+- makes ... a breeze - 让...轻而易举

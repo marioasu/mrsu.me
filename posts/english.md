@@ -164,3 +164,6 @@ Position: 999
 
 ## 2015-08-01
 - virtue - 美德
+
+## 2015-08-24
+- screwdriver - 螺丝刀

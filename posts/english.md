@@ -167,3 +167,10 @@ Position: 999
 
 ## 2015-08-24
 - screwdriver - 螺丝刀
+
+## 2015-08-25
+- quick fix - 权宜之计
+
+## 2015-08-30
+- obviate - 避免
+- coord - 坐标

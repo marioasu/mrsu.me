@@ -174,3 +174,10 @@ Position: 999
 ## 2015-08-30
 - obviate - 避免
 - coord - 坐标
+
+## 2015-09-18
+- strive - 努力
+
+## 2015-09-23
+- 自己吹的牛b,哭着也要去实现
+- aggregate data type - 聚合数据结构

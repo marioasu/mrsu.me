@@ -181,3 +181,14 @@ Position: 999
 ## 2015-09-23
 - 自己吹的牛b,哭着也要去实现
 - aggregate data type - 聚合数据结构
+
+## 2015-11-15
+investment - 投资
+consulting - 咨询
+foreign exchange - 外汇
+pigeon - 鸽子
+ninon - 尼农
+harmonica - 口琴
+securities - 证券
+oral english／spoken english - 口语
+

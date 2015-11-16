@@ -184,3 +184,13 @@ Position: 999
 
 ## 2015-11-04
 - boost 增加
+
+## 2015-11-15
+investment - 投资
+consulting - 咨询
+foreign exchange - 外汇
+pigeon - 鸽子
+ninon - 尼农
+harmonica - 口琴
+securities - 证券
+oral english／spoken english - 口语

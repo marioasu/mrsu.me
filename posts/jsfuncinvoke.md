@@ -88,3 +88,45 @@ console.log(myObject.value); // 6 // myObject对象的属性被double
 console.log(window.value); // 7 // 全局属性未被改变
 
 ```
+
+####构造器调用模式
+在函数前加一个new来调用。这时创建一个新对象并将this绑定到新对象上，新对象连接到原构造函数的prototype，所以可以在构造函数的prototype上绑定方法供新对象调用
+
+```javascript
+var Quo = function (string) {
+	this.status = string;
+};
+Quo.prototype.get_status = function () {
+	return this.status;
+}
+
+var myQuo = new Quo('ss');
+console.log(myQuo.get_status());
+
+```
+
+#### Apply调用模式
+函数可以提供给指定对象和指定参数调用，这时候函数的this绑定到指定对象
+func.apply(obj, arr)接收两个参数，第一个参数是this要绑定到的对象，第二个参数是参数数组
+接上例
+
+```
+var add = function(a, b) {
+	return a + b;
+};
+
+var array = [3, 4];
+var sum = add.apply(null, array); // 7 这里只是换了种调用方式，不需要绑定到其它对象
+console.log(sum);
+
+var statusObject = {
+	status: 'own status'
+};
+
+var status = Quo.prototype.get_status.apply(statusObject);
+// 也可以通过对象去找原型上的方法：var status = myQuo.get_status.apply(statusObject);
+console.log(status); // own status
+
+// 这样就灵活的借用了已有对象的方法或者孤立的函数
+
+```

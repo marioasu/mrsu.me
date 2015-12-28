@@ -194,3 +194,22 @@ ninon - 尼农
 harmonica - 口琴
 securities - 证券
 oral english／spoken english - 口语
+
+## 2015-11-23
+collapsar - 黑洞
+
+## 2015-11-24
+refrain - 避免
+
+## 2015-11-25
+latitude - 纬度
+longitude - 经度
+
+## 2015-11-25
+assumptions - 假设
+
+## 2015-12-14
+manner - 方式
+concerned about - 关心
+memory footprint - 内存占用
+junction - 连接

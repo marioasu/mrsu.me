@@ -26,6 +26,8 @@ Position: 997
 ### IT
 - [图灵社区 - 技术改变世界 阅读塑造人生](http://www.ituring.com.cn/)
 - [前端网 - 前端开发工程师互动平台](http://www.w3cfuns.com/)
+- [码市 - CODING旗下的软件众包平台](https://mart.coding.net/)
+- [猿团 - 成为你更加专业的技术合伙人](http://www.yuantuan.com/)
 
 ### 兴趣
 - [环球万国](http://country.huanqiu.com/)

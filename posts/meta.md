@@ -36,7 +36,7 @@ h5中较常使用
 ##name
 - keywords 关键字
 ```
-<meta name="keywords" content="mrsu 博客 IT" />
+<meta name="keywords" content="mrsu,博客,IT" />
 ```
 
 - description 简介

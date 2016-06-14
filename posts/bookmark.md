@@ -24,6 +24,7 @@ Position: 997
 - [swift在线编译器](http://swiftstub.com/)
 
 ### IT
+- [All IT eBooks - Free IT eBooks Download](http://www.allitebooks.com/)
 - [图灵社区 - 技术改变世界 阅读塑造人生](http://www.ituring.com.cn/)
 - [前端网 - 前端开发工程师互动平台](http://www.w3cfuns.com/)
 - [码市 - CODING旗下的软件众包平台](https://mart.coding.net/)

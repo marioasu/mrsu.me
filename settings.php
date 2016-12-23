@@ -19,7 +19,7 @@ $blog_config['avatar']= 'http://mrsu-me.oss-cn-beijing.aliyuncs.com/op_brothers.
 $blog_config['template'] = 'deepure';
 
 //If you would like that everyone comment your post,you must set this variable to True.
-$blog_config['comment'] = True;
+$blog_config['comment'] = false;
 //duoshuo short name，duoshuo is the social comment system,url is  http://duoshuo.com/.
 $blog_config['duoshuo_short_name'] = 'justwriting';
 //disqus short name

@@ -41,3 +41,6 @@ s 替换 紧跟s的字符就是查找串和替换串的分隔符
 通过管道组合这些工具就可以做一些文本查找替换，日志分析之类的事情了  
 例如查找某nginx访问日志中ip请求量的top10可以用：  
 cat nginx_access.log | gawk '{print $1}' | sort | uniq -c | sort -rn | head -n 10
+
+今天北京难得下了场不小的雨，下班时天空的粉红印在了建筑的玻璃墙上
+<img src="/docs/images/20170522.jpg" />

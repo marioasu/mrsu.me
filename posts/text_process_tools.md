@@ -10,6 +10,7 @@ Position: 988
 
 ### grep
 -E :    --extended-regexp 扩展的正则表达式  
+-o :    --only-matching 只输出匹配部分  
 -i :    --ignore-case 不分大小写  
 -v :    --invert-match 选择不匹配的行  
 -r :    --recursive 这个主要在目录下的文件中搜索匹配的内容，可以配合-n使用  
@@ -28,6 +29,10 @@ sed [OPTION]... {script-only-if-no-other-script} [input-file]...
 p 打印  
 d 删除  
 s 替换 紧跟s的字符就是查找串和替换串的分隔符  
+
+### cut
+-d :    --delimiter 分隔符  
+-f :    --fields 输出字段
 
 ### sort
 -r :    --reverse 反向排序  

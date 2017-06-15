@@ -12,4 +12,4 @@ services:
     volumes:
       - '/home/admin:/home/admin'
     ports:
-      - '8900:80'
+      - '8001:80'

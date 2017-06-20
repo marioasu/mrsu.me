@@ -1,4 +1,5 @@
 version: '2'
+project_name: mrsu
 services:
   blog:
     image: mrsu/blog

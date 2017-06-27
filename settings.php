@@ -4,19 +4,19 @@
 $blog_config['language']	= 'zh';
 
 //blog title
-$blog_config['title'] = 'Mr.su is me';
+$blog_config['title'] = 'mrsu\'s blog';
 //blog sub title
-$blog_config['intro'] = '米斯特·苏的文字';
+$blog_config['intro'] = 'mrsu的文字';
 //blog author
 $blog_config['author']='Mr.su';
 //"About Me" box
-$blog_config['aboutme']='兰生于幽谷，不以无人而不芳';
+$blog_config['aboutme']='曾迷途才怕追不上满街赶路人';
 //blog avatar
 // $blog_config['avatar']= 'https://raw.githubusercontent.com/hjue/JustWriting/develop/docs/logo.png';
 $blog_config['avatar']= 'http://mrsu-me.oss-cn-beijing.aliyuncs.com/op_brothers.jpg';
 
 //blog template name.The template root path is /templates.You can set rock or deepure. 
-$blog_config['template'] = 'deepure';
+$blog_config['template'] = 'rock';
 
 //If you would like that everyone comment your post,you must set this variable to True.
 $blog_config['comment'] = false;

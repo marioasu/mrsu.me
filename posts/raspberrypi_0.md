@@ -38,7 +38,7 @@ sudo raspi-config 进入设置界面
 =======
 设置固定ip
 -------
-修改 ／etc/dhcpcd.conf 添加
+修改 /etc/dhcpcd.conf 添加
 ```
 # config by mrsu
 static ip_address=192.168.1.120/24

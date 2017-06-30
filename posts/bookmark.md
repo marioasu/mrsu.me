@@ -21,6 +21,7 @@ Position: 997
 - [jquery](http://www.php100.com/manual/jquery/)
 
 ### 工具
+- [打字练习](https://www.typingclub.com/)
 - [swift在线编译器](http://swiftstub.com/)
 
 ### IT

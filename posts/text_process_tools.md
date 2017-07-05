@@ -48,4 +48,4 @@ s 替换 紧跟s的字符就是查找串和替换串的分隔符
 cat nginx_access.log | gawk '{print $1}' | sort | uniq -c | sort -rn | head -n 10
 
 今天北京难得下了场不小的雨，下班时天空的粉红印在了建筑的玻璃墙上
-<img src="/docs/images/20170522.jpg" />
+<p><img src="/docs/images/20170522.jpg" /></p>

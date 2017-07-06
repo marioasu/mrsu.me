@@ -39,14 +39,12 @@ reboot - 重启后文件系统扩容生效
 树莓派上的 Kali Linux 自动登录
 =======
 vi /etc/lightdm/lightdm.conf - 删除这两行注释并修改
--------
 ```
 autologin-user=root
 autologin-user-timeout=0
 ```
 
 vi /etc/pam.d/lightdm-autologin - 允许root用户自动登录
--------
 ```
 #auth      required pam_succeed_if.so user != root quiet_success - 注释掉这一行
 ```

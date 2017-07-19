@@ -217,3 +217,8 @@ Position: 999
 ## 2017-07-18
 - discrete - 分别的 离散的
 - consecutive - 连续的
+
+## 2017-07-19
+- loiter - 闲逛 虚度
+- antidote - 解毒药
+- tulip - 郁金香

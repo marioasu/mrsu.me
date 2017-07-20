@@ -222,3 +222,7 @@ Position: 999
 - loiter - 闲逛 虚度
 - antidote - 解毒药
 - tulip - 郁金香
+
+## 2017-07-20
+- semaphore - 信号 旗语
+- jabberwocky - 无意义的话

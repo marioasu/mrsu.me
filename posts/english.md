@@ -226,3 +226,7 @@ Position: 999
 ## 2017-07-20
 - semaphore - 信号 旗语
 - jabberwocky - 无意义的话
+
+## 2017-07-20
+- ransom - 勒索 赎金
+- copycats - 模仿者

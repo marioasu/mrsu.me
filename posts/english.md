@@ -227,6 +227,9 @@ Position: 999
 - semaphore - 信号 旗语
 - jabberwocky - 无意义的话
 
-## 2017-07-20
+## 2017-07-21
 - ransom - 勒索 赎金
 - copycats - 模仿者
+
+## 2017-07-24
+- parallelism - 并行

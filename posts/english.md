@@ -233,3 +233,6 @@ Position: 999
 
 ## 2017-07-24
 - parallelism - 并行
+
+## 2017-07-25
+- courtesy - 礼貌 礼节

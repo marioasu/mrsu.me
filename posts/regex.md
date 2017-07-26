@@ -19,7 +19,7 @@ e.g.
 \s (whitespace character) - 匹配```[ \t\r\n\f]``` (注意集合里有个空格)
 
 ### 模式修正符 - Mode Modifiers
-i (case insensitive) - 大小写不敏感
+i (case insensitive) - 大小写不敏感  
 x (free-spacing mode) - 忽略正则表达式中的空格 这可以让你写出可读性更高的正则表达式 注意想要匹配空格的时候要使用\ 作转义(不然会被忽略掉)  
 s (single line mode) - 单行匹配，将整个文本看做一行，这样```.```就能匹配包括换行符(\n)在内的所有字符了。与之对应的是 m (multi-line mode)
 

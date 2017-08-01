@@ -239,3 +239,6 @@ Position: 999
 
 ## 2017-07-26
 - negate - 否定
+
+## 2017-07-31
+- tailor - 裁缝 做...以适应... e.g. tailor to your needs

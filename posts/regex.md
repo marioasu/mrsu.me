@@ -7,7 +7,7 @@ Toc: yes
 Position: 984
 
 ### 定界符 - Delimiters
-成对出现的 a-zA-Z0-9\ 之外的其它字符都能作为正则表达式的定界符  
+成对出现的 ```[[a-zA-Z0-9\]``` 之外的其它字符都能作为正则表达式的定界符  
 一般使用不会在匹配目标中出现的字符作为定界符，从而避免对这些字符的转义，以提高正则表达式的可读性  
 e.g.  
 想要匹配 ```'http://mrsu.me/'```  
@@ -34,7 +34,7 @@ $str = '123456a890end';
 preg_match($regexp, $str, $matches);
 print_r($matches);
 
-结果: 索引0 包含整个表达式匹配到的内容 索引1-5分别包含从左到右数第n个括号匹配到的内容
+结果: 索引0包含整个表达式匹配到的内容 索引1-5分别包含从左到右数第n个括号匹配到的内容
 Array
 (
     [0] => a890end
@@ -65,3 +65,31 @@ Array
     [2] => end
 )
 ```
+
+### 命名捕获组 - Named Capturing Groups
+通常我们使用 ```\1 \2 \3``` 来反向引用分组，命名捕获组相当于给这些反向应用起了个别名  
+使用 ```(?P<name>group)``` 来给匹配到的分组内容命名  
+使用 ```\k<name>``` 来反向引用命名捕获组，当然同样可以使用原来的方式（对应匹配顺序的数字）来反向引用  
+可以用来提取 ```PATH_INFO``` 中的信息，实现router  
+e.g.
+```
+<?php
+$regex = '#/hello/(?P<user>\w+)ME\k<user>#';
+$str = '/hello/mrsuMEmrsu';
+preg_match($regex, $str, $matches);
+var_dump($matches);
+
+结果： 除了使用数字（1）之外，还可以使用组名key（user）来访问匹配到的分组
+array(3) {
+  [0] =>
+  string(17) "/hello/mrsuMEmrsu"
+  'user' =>
+  string(4) "mrsu"
+  [1] =>
+  string(4) "mrsu"
+}
+
+```
+
+### 参考资料
+去这里了解更多关于正则表达式的知识：<a href="http://www.regular-expressions.info/" target="_blank">http://www.regular-expressions.info/</a>

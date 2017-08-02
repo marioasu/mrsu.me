@@ -12,5 +12,6 @@ services:
       - PROJECT_NAME=mrsu
     volumes:
       - '/home/admin:/home/admin'
+      - '/data:/data'
     ports:
       - '8001:8001'

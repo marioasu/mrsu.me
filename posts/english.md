@@ -242,3 +242,6 @@ Position: 999
 
 ## 2017-07-31
 - tailor - 裁缝 做...以适应... e.g. tailor to your needs
+
+## 2017-08-01
+- forth - 向前 e.g. and so forth # 比 and so on 更书面化

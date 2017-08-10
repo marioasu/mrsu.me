@@ -19,7 +19,17 @@ Position: 988
 
 ### gawk
 gawk的一般使用模式是 gawk [options] '[/pattern/ | expression] {action}'  
--F :    --field-separator 字段分隔符，默认是空格或tab  
+-F :    --field-separator 字段分隔符，可以指定多个（[f1f2]） 默认是任意数量的空格或tab  
+变量 FS 对应参数-F的值  
+变量 OFS 输出字段分隔符  
+变量 ORS 输出记录分隔符  
+变量 NF 表示当前记录中字段的个数 - 所以 $NF 可以引用最后一个字段（使用NF可以引用其数值）、$(NF-1) 引用倒数第二个...  
+变量 NR 表示当前记录个数  
+变量 FILENAME 表示当前输入文件的名字  
+$0 可以引用整条记录  
+BEGIN 和 END 模式 - BEGIN {action} 或 END {action} 处理记录之前或之后要做的操作  
+在字段中匹配模式 - $field ~ /pattern/ 或 $field !~ /pattern/ (不匹配) 还可以使用==/!=/>=等比较运算符  
+可以使用布尔操作符（&& || !）连接多个规则  
 
 ### sed 流编辑器
 sed [OPTION]... {script-only-if-no-other-script} [input-file]...  

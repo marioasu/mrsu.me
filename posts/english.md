@@ -245,3 +245,16 @@ Position: 999
 
 ## 2017-08-01
 - forth - 向前 e.g. and so forth # 比 and so on 更书面化
+
+## 2017-08-10
+- remaining - 剩下的
+- inhibited - 禁止
+
+## 2017-08-11
+- perspective - 观点 透视的
+- bias - 偏见
+- excavation - 挖掘
+- contemporary - 当代的
+- archetypal - 典型的
+- spaghetti - 意大利面条
+- sarcasm - 讽刺话

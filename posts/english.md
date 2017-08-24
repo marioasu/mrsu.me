@@ -258,3 +258,9 @@ Position: 999
 - archetypal - 典型的
 - spaghetti - 意大利面条
 - sarcasm - 讽刺话
+
+## 2017-08-22
+- interceptor - 拦截者
+
+## 2017-08-24
+- boils down to - 归结为

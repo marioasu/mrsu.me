@@ -264,3 +264,8 @@ Position: 999
 
 ## 2017-08-24
 - boils down to - 归结为
+
+## 2017-08-30
+- at your disposal - 任由使用，听候差遣
+- but rather - 而是，正相反
+- get a grip on - 抓住，掌握
